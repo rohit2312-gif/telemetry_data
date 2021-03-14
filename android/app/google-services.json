@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "799971265921",
+    "firebase_url": "https://telemetry-miles-default-rtdb.firebaseio.com",
+    "project_id": "telemetry-miles",
+    "storage_bucket": "telemetry-miles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799971265921:android:b87cecb13c487f1a242c80",
+        "android_client_info": {
+          "package_name": "challenge.Miles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799971265921-qdj4rb83k1a8m3dh4onkmd5tohueslno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzc6SvLmwxe16aI7xFExKiThlGKXkHfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799971265921-qdj4rb83k1a8m3dh4onkmd5tohueslno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799971265921:android:30dedd4adec1fb0f242c80",
+        "android_client_info": {
+          "package_name": "tele.telemetry1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799971265921-qdj4rb83k1a8m3dh4onkmd5tohueslno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzc6SvLmwxe16aI7xFExKiThlGKXkHfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799971265921-qdj4rb83k1a8m3dh4onkmd5tohueslno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
